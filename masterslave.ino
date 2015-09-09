@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //test1
+=======
+//test
+>>>>>>> origin/master
 #include <EEPROM.h>
 #include <Wire.h>    // I2C-Bibliothek einbinden
 #include "RTClib.h"  // RTC-Bibliothek einbinden
